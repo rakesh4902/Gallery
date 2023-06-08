@@ -1,0 +1,27 @@
+/* Write your code here. */
+.img {
+  height: 500px;
+  width: 800px;
+  border-radius: 20px;
+}
+.galleryCont {
+  margin: 50px;
+}
+.head {
+  color: #1e293b;
+  font-size: 25px;
+}
+
+.imageCont {
+  display: flex;
+  flex-direction: row;
+}
+
+.p {
+  color: #64748b;
+}
+.gallItems {
+  display: flex;
+  flex-direction: row;
+  padding-left: 0px;
+}

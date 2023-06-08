@@ -1,0 +1,17 @@
+/* Write your code here. */
+
+.img1 {
+  border-radius: 9px;
+  height: 80px;
+  width: 80x;
+  opacity: 0.5;
+}
+
+.imgButton {
+  border: 0px;
+  background-color: #ffffff;
+}
+
+.active {
+  opacity: 1;
+}
